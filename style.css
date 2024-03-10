@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color:#cfaed1;
+}
+
+.timer-container {
+    text-align: center;
+    background-color: #2ab4a3;
+    padding:20px;
+    border-radius:10px;
+}
+
+#timer {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 1em;
+    margin: 5px;
+    border-radius:10px;
+}
